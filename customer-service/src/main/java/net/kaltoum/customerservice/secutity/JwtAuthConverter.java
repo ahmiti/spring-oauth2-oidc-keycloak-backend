@@ -71,15 +71,7 @@ JWT :
         "view-profile"
       ]
     }
-  },
-  "scope": "email profile",
-  "sid": "e085be18-fca8-46bd-b746-80f024ffa535",
-  "email_verified": false,
-  "name": "Mohamed YOUSSFI",
-  "preferred_username": "user1",
-  "given_name": "Mohamed",
-  "family_name": "YOUSSFI",
-  "email": "user1@gmail.com"
-}
+  }
+
  */
 }
